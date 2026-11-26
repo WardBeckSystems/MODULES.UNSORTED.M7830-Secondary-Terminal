@@ -33,7 +33,7 @@ M7820 secondary terminal functional Title block at bottom left reading sideways.
 - **Dots (junctions):** 1
 - **Wiring (first pass):** 178 connected wire groups from 663 runs
 
-Every curve, box, word and wire group: [19xx - 7830-01-001 - M7830A SECONDARY TERMINAL FUNCTIONAL - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%207830-01-001%20-%20M7830A%20SECONDARY%20TERMINAL%20FUNCTIONAL%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 7830-01-001 - M7830A SECONDARY TERMINAL FUNCTIONAL - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 7830-01-001 - M7830A SECONDARY TERMINAL FUNCTIONAL - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%207830-01-001%20-%20M7830A%20SECONDARY%20TERMINAL%20FUNCTIONAL%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 7830-01-001 - M7830A SECONDARY TERMINAL FUNCTIONAL - ISS 1 (traced).dxf`).
 
 ## Full text
 
